@@ -1,0 +1,9 @@
+Impact_Score,Flood_Count,DFSI,Population_Density,Fatalities_per_1000,Injured_per_1000,Event_Impact,Avg_Flood_Duration,Max_Flood_Duration,Total_Flood_Duration,Latitude,Longitude,Risk_Level,Confidence,Recommended_Actions
+0.5,5,0.5,700,0.4200000000000002,0.7000000000000004,0.5,13,20,25,13.0,80.0,Moderate,90.5,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
+0.8999999999999999,8,0.7999999999999999,700,0.529,0.889,0.649,25,30,35,13.0,80.0,Moderate,85.5,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
+0.30000000000000004,3,0.30000000000000004,200,0.2989999999999998,0.45899999999999963,0.14900000000000008,4,13,16,13.07412756381517,80.27297973632814,Moderate,98.5,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
+0.5,5,0.5,500,0.0,0.0,0.5,5,10,20,13.0,80.0,Moderate,100.0,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
+0.5,5,0.5,500,0.0,0.0,0.5,5,10,20,13.027554741038747,80.23916244506837,Moderate,100.0,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
+0.8999999999999999,25,0.8999999999999999,9000,0.8000000000000005,0.6000000000000003,0.8999999999999999,45,70,300,13.027554741038747,80.23916244506837,Moderate,68.5,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
+0.8999999999999999,25,0.8999999999999999,9000,0.8000000000000005,0.6000000000000003,0.8999999999999999,45,70,300,13.795406203132826,79.76348876953126,Moderate,68.5,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
+0.8999999999999999,25,0.8999999999999999,9000,0.8000000000000005,0.6000000000000003,0.8999999999999999,45,70,300,13.83674650062699,79.7600555419922,Moderate,68.5,"['Alert local authorities', 'Preposition relief materials', 'Mobilize volunteers']"
